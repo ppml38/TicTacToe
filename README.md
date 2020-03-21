@@ -1,3 +1,4 @@
 # TicTacToe
-TicTacToe game with simple graphics
-Requires EGAVGA.BGI file or TurboC
+TicTacToe game with simple graphics.
+
+Requires EGAVGA.BGI file with TurboC for compilation
